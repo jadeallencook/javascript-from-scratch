@@ -1,0 +1,22 @@
+{
+  "name": "javascript-from-scratch",
+  "version": "1.0.0",
+  "description": "Curated exercises that teach you foundational JavaScript concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadeallencook/javascript-from-scratch.git"
+  },
+  "author": "@jadeallencook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadeallencook/javascript-from-scratch/issues"
+  },
+  "homepage": "https://github.com/jadeallencook/javascript-from-scratch#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
